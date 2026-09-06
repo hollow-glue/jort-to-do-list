@@ -1,7 +1,11 @@
 how to set run
+
 1 install .NET SDK
+
 2 Clone "https://github.com/hollow-glue/jort-to-do-list.git"
+
 3 dotnet restore
+
 4 dotnet run
 
 how to use
